@@ -1,0 +1,1 @@
+Changing sentence to replace words with synonms and/or removing words to form a new sentence. The cosine sim between the sentence embeddings have been compared after the change
